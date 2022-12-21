@@ -147,15 +147,6 @@ Response Body:
 ```
 
 
-Evaulation of Result
---------------------
-Your code will be evaluated based on the following points:
-
-- All the URLs can function correctly.
-- Clear and concise use of classes and variable names.
-- Code cleaniness.
-
-
 Bonus Tasks
 -----------
 These are optional tasks. Completing any of these would be an added bonus.
@@ -163,3 +154,12 @@ These are optional tasks. Completing any of these would be an added bonus.
 1. Swagger has been enabled in this project. Update the code so that Swagger shows the correct Example Value and Schema for each URLs.
 2. Make use of Data Repository pattern to isolate the storage of Account objects from Controller.
 3. Upon completing bonus task 2, make use of Dependency Injection in ASP.NET Core to inject Data Repository object into Controller.
+
+
+Evaulation of Result
+--------------------
+Your code will be evaluated based on the following points:
+
+- All the URLs can function correctly.
+- Clear and concise use of classes and variable names.
+- Code cleaniness.
